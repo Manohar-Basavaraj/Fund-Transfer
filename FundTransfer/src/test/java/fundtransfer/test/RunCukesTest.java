@@ -14,7 +14,7 @@ public class RunCukesTest {
 	
 }*/
 
-@RunWith(Cucumber.class)
+@RunWith(Cucumber .class)
 @CucumberOptions(plugin = {"pretty"})
 public class RunCukesTest {
 
